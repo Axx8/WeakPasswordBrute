@@ -1,5 +1,7 @@
 # WeakPasswordBrute
- 一款针对弱口令进行批量扫描爆破的工具，目前支持FTP | Redis | Mysql | SSH | SQL Server   持续更新中。
+ 一款针对弱口令进行批量扫描爆破的工具，目前支持FTP | Redis | Mysql | SSH | SQL Server  持续更新中。
+ 
+ 程序的健壮性还不行，劳请师傅们多多包涵。
 
 ### 运行
 ```
